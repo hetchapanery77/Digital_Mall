@@ -1,0 +1,47 @@
+# Compiled class files
+*.class
+bin/
+*.jar
+
+# Log files
+*.log
+LOGS*
+
+# Generated bills
+billof*.txt
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Database files
+*.db
+*.sqlite
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.cache
+
+# MySQL connector (if you don't want to commit it)
+# lib/mysql-connector-java.jar
+
+# User-specific files
+*.txt
+!README.md
+
+# Build directories
+build/
+target/
+out/
+
